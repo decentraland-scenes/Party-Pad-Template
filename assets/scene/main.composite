@@ -9721,9 +9721,9 @@
         "serializationType": "map"
       },
       "data": {
-        "562": {
+        "557": {
           "json": {
-            "gizmo": 1
+            "gizmo": 0
           }
         }
       }
@@ -10056,6 +10056,7 @@
           "json": {
             "name": "Party Pad",
             "description": "Empty Scene Template",
+            "thumbnail": "assets/scene/Images/partypad_thumbnail-min.jpg",
             "ageRating": "T",
             "categories": [
               "social",

@@ -97,16 +97,16 @@
               "y": 7.669363975524902,
               "z": 30.016347885131836
             },
+            "scale": {
+              "x": 4,
+              "y": 4,
+              "z": 4
+            },
             "rotation": {
               "x": 0,
               "y": 0.9999520778656006,
               "z": 0,
               "w": 0.000020109342585783452
-            },
-            "scale": {
-              "x": 4,
-              "y": 4,
-              "z": 4
             },
             "parent": 0
           }
@@ -706,16 +706,16 @@
               "y": 9.5,
               "z": 30.034162521362305
             },
+            "scale": {
+              "x": 0.25,
+              "y": 0.25,
+              "z": 0.25
+            },
             "rotation": {
               "x": 0,
               "y": 1,
               "z": 0,
               "w": 0
-            },
-            "scale": {
-              "x": 0.25,
-              "y": 0.25,
-              "z": 0.25
             },
             "parent": 0
           }
@@ -9721,7 +9721,7 @@
         "serializationType": "map"
       },
       "data": {
-        "557": {
+        "0": {
           "json": {
             "gizmo": 0
           }
@@ -10056,21 +10056,16 @@
           "json": {
             "name": "Party Pad",
             "description": "Empty Scene Template",
-            "thumbnail": "assets/scene/Images/partypad_thumbnail-min.jpg",
+            "thumbnail": "",
             "ageRating": "T",
             "categories": [
               "social",
               "music"
             ],
             "author": "SDK",
-            "tags": [
-              ""
-            ],
+            "email": "",
+            "tags": [],
             "layout": {
-              "base": {
-                "x": 0,
-                "y": 0
-              },
               "parcels": [
                 {
                   "x": 0,
@@ -10088,8 +10083,14 @@
                   "x": 1,
                   "y": 0
                 }
-              ]
+              ],
+              "base": {
+                "x": 0,
+                "y": 0
+              }
             },
+            "silenceVoiceChat": false,
+            "disablePortableExperiences": false,
             "skyboxConfig": {},
             "spawnPoints": [
               {

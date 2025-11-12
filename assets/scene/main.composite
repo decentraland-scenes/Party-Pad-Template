@@ -9721,7 +9721,7 @@
         "serializationType": "map"
       },
       "data": {
-        "0": {
+        "572": {
           "json": {
             "gizmo": 0
           }
@@ -11970,7 +11970,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://discord.gg/Zxm5SPBhCA\"}",
+                "jsonPayload": "{\"url\":\"https://discord.gg/decentraland-417796904760639509\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }
@@ -12043,7 +12043,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://www.instagram.com/lowpolymodelsw/\"}",
+                "jsonPayload": "{\"url\":\"https://www.instagram.com/decentraland_foundation/\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }
@@ -12057,7 +12057,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://x.com/lowpolymodelsw/\"}",
+                "jsonPayload": "{\"url\":\"https://twitter.com/decentraland\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }
@@ -12071,7 +12071,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://www.youtube.com/@lowpolymodelsw\"}",
+                "jsonPayload": "{\"url\":\"https://www.youtube.com/@decentraland_foundation\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }
@@ -12085,7 +12085,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://discord.gg/Zxm5SPBhCA\"}",
+                "jsonPayload": "{\"url\":\"https://discord.gg/decentraland-417796904760639509\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }
@@ -12099,7 +12099,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://www.instagram.com/lowpolymodelsw/\"}",
+                "jsonPayload": "{\"url\":\"https://www.instagram.com/decentraland_foundation/\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }
@@ -12113,7 +12113,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://www.youtube.com/@lowpolymodelsw\"}",
+                "jsonPayload": "{\"url\":\"https://www.youtube.com/@decentraland_foundation\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }
@@ -12127,7 +12127,7 @@
               {
                 "name": "Open Link",
                 "type": "open_link",
-                "jsonPayload": "{\"url\":\"https://x.com/lowpolymodelsw/\"}",
+                "jsonPayload": "{\"url\":\"https://twitter.com/decentraland\"}",
                 "allowedInBasicView": true,
                 "basicViewId": "open-link"
               }

@@ -10,6 +10,7 @@ export enum EntityNames {
   Discord_Button = "Discord Button",
   Discord_Button_2 = "Discord Button_2",
   Elevator = "Elevator",
+  Fixed_View_Camera = "Fixed View Camera",
   Graffiti = "Graffiti",
   Image_ALittleParty = "Image_ALittleParty",
   Image_Arrow = "Image_Arrow",

@@ -138,3 +138,6 @@ assets/.DS_Store
 assets/scene/.DS_Store
 assets/scene/Images/.DS_Store
 .DS_Store
+bin/index.js
+bin/index.js
+package-lock.json
